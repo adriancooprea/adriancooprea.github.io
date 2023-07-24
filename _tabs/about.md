@@ -14,7 +14,7 @@ My name is **Adrian**, I'm a **software engineer**, and I write about various th
 - **⏰ Experience**: over seven years in the field
 - **🎩 Hats**: developer, technical lead, engineering manager
 - **🧠 Areas of expertise**: developing, testing, architecting, hiring, coaching, and team performance
-- **🏆 Biggest achievement**: successfully built and launched a product ([SkyRoster](https://www.skyroster.com/))
+- **🏆 Biggest achievement**: successfully built and launched a product for a startup company ([SkyRoster](https://www.skyroster.com/))
 
 My career goal is to work with people and help them achieve their true potential.
 I took a detour in my professional journey and returned to improving my technical area 
@@ -27,9 +27,6 @@ to better prepare for what's next(`#todo` check Why I went from Engineering Mana
 During my free time, I enjoy spending quality moments with my family, consisting of my wife and daughter.
 I find pleasure in reading, writing, and contemplating.
 To stay physically fit, I hit the gym four days a week and engage in kickboxing twice a week(`#todo` more about My Fitness Routine).
-
-#### Cat/~~Dog~~ person
-`#todo` Cat pictures
 
 ### What are my notes about?
 
