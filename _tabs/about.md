@@ -39,8 +39,8 @@ I believe productivity is often confused with quantity instead of quality, and t
 
 In my note-taking approach, I use two types of notes: 
 **`material notes`** (similar to the notion of [Literature Notes from the Zettelkasten method](https://zettelkasten.de/posts/concepts-sohnke-ahrens-explained/#literature-notes-a-subcategory-of-permanent-notes)) 
-that reflect my understanding of a given source like a podcast, course, youtube video, article, or book, 
-and **`general notes`** which reflect my intuition, knowledge, experience.
+that reflect my understanding of a given source like a podcast, course, YouTube video, article, or book, 
+and **`general notes`** which reflect my intuition, knowledge, experience, or thoughts.
 
 This website doesn't target a specific area of interest, such as software development, 
 but instead focuses on all areas of life as a whole. 
