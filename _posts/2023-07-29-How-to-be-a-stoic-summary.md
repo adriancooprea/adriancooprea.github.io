@@ -1,6 +1,6 @@
 ---
 title: How To Be A Stoic - Summary
-date: 2023-07-29 12:00
+date: 2023-07-29 12:00 +0300
 categories: [Summary,Book,Stoicism]
 tags: [stoicism,philosophy,self-awareness,self-help,personal-development]
 ---
@@ -49,7 +49,7 @@ You can change your perception and improve your mood by reframing your initial o
 #### 2. Focus on what you can control to improve your effectiveness
 
 According to the Stoics, few things are in our control.
-These include our `thoughts`, `desires`, `behaviors`, and `reactions` (*although this is partially true if we consider the findings in the Psychology field regarding biases and other behavioral influences*). Embracing [The Dichotomy of Control]({% post_url 2023-07-29-The-Dichotomy-of-Control %}) helps us focus our energy and attention on what we can control and accept what we can't control.
+These include our `thoughts`, `desires`, `behaviors`, and `reactions` (*although this is partially true if we consider the findings in the Psychology field regarding biases and other behavioral influences*). Embracing [The Dichotomy Of Control]({% post_url 2023-07-29-The-Dichotomy-of-Control %}) helps us focus our energy and attention on what we can control and accept what we can't control.
 - **Don't focus** on whether you're winning the competition. **Focus** instead on giving your best.
 - **Don't focus** on what other people think of you. **Focus** on being a virtuous person.
 - **Don't focus** on the misfortune that got you down. **Focus** on your opportunities, abilities, and resources to improve your situation.

@@ -1,6 +1,6 @@
 ---
-title: The Dichotomy of Control
-date: 2023-07-29 10:00
+title: The Dichotomy Of Control
+date: 2023-07-29 10:00 +0300
 categories: [Notes,Philosophy,Stoicism]
 tags: [stoicism,philosophy,self-help,personal-development]
 ---
