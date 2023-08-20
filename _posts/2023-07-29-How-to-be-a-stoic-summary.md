@@ -27,7 +27,7 @@ tags: [stoicism,philosophy,self-awareness,self-help,personal-development]
 
 ---
 
-## What's this book about?
+## About
 
 **"How To Be a Stoic"** is not just a theoretical exploration of ancient philosophy but a practical guide that applies the principles of stoicism to the challenges of modern life.
 It gives readers actionable advice on managing their emotions, dealing with adversity, and living more fulfilling lives.
